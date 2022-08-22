@@ -1,0 +1,3 @@
+ TESTE 
+ escrita 
+ de dados no arquivo 
